@@ -875,7 +875,7 @@ main {
 }
 
 .has-search .form-control-feedback {
-    position: absolute;
+    position: relative;
     z-index: 2;
     display: block;
     width: 2.375rem;
@@ -883,4 +883,5 @@ main {
     line-height: 2.375rem;
     text-align: center;
     pointer-events: none;
+    left: 37px;
 }
