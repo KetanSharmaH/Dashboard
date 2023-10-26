@@ -6,7 +6,7 @@ import GitHubIcon from "../../assets/icons/GitHubIcon";
 import PercentIcon from "../../assets/icons/PercentIcon";
 import GearIcon from "../../assets/icons/GearIcon";
 import HelpIcon from "../../assets/icons/HelpIcon";
-import UpArrowIcon from "../../assets/icons/UpArrowIcon"
+import UpArrowIcon from "../../assets/icons/UpArrowIcon";
 import DollarIcon from "../../assets/icons/DollarIcon";
 import DownArrowIcon from "../../assets/icons/DownArrowIcon";
 import WalletIcon from "../../assets/icons/WalletIcon";
